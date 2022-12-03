@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [TawakeMono.com](https://tawakemono.com)
 
-- 📫 How to reach me **fred@twk.mn**
+- 📫 Reach me at **fred@twk.mn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
