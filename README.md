@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Fred</h1>
+<h1 align="center">👋, I'm Fred</h1>
 <h3 align="center">Swedish Web Dev in Japan</h3>
 
 🌱 I’m currently learning **React** & **Node.js**
