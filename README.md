@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Fred</h1>
 <h3 align="center">Swedish Web Dev in Japan</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+🌱 I’m currently learning **React, Node.js**
 
-- 👨‍💻 All of my projects are available at [TawakeMono.com](https://tawakemono.com)
+👨‍💻 All of my projects are available at [TawakeMono.com](https://tawakemono.com)
 
-- 📫 Reach me at **fred@twk.mn**
+📫 Reach me at **fred@twk.mn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
