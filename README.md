@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **React** & **Node.js**
 
-👨‍💻 All of my projects are available at [TawakeMono.com](https://tawakemono.com)
+👨‍💻 I will try and showcase my projcets here... 🙃
 
 📫 Reach me at **fred@twk.mn**
 
