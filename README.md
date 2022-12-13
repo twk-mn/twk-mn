@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twk-mn&" alt="twk-mn" /></p>
 
-<p><a href="https://tryhackme.com/p/TawakeMono"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/TawakeMono.png" alt="TryHackMe.com/TawakeMono" /></a> <img align="center" src="https://www.codewars.com/users/TawakeMono/badges/micro" alt="Codewars.com/TawakeMono" /></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/TawakeMono.png" alt="TryHackMe"> <img align="center" src="https://www.codewars.com/users/TawakeMono/badges/micro" alt="Codewars.com/TawakeMono" /></p>
