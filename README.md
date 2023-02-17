@@ -3,7 +3,7 @@
 
 👨‍💻 I will try and showcase my projcets here... 🙃
 
-📫 Can find my contact infor at **https://twk[.]mn**
+📫 Can find my contact infor at **twk[.]mn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
