@@ -1,11 +1,9 @@
 <h1 align="center">👋, I'm Fred</h1>
 <h3 align="center">Swede in Japan</h3>
 
-🌱 I’m currently learning **React** & **Node.js**
-
 👨‍💻 I will try and showcase my projcets here... 🙃
 
-📫 Reach me at **fred@twk.mn**
+📫 Can find my contact infor at **https://twk[.]mn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
