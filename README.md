@@ -1,7 +1,8 @@
 <h1>👋, I'm Fred</h1>
-<h3>Swede in Tokyo</h3>
-
-👨‍💻 Not sure if any of my repos are of interest to anyone... But you are welcome to check them out... 🙃
+<p>Cybersecurity interested backend Developer.<br />
+Currently getting the hang of Go and Rust.
+</p>
+💻 Not sure if any of my repos are of interest to anyone... But you are welcome to check them out... 🙃
 
 📫 Contact: <a href="https://linkedin.com/in/fredfaeger" target="blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="python" width="25" height="20" /></a>
 </p>
@@ -33,10 +34,11 @@
 
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twk-mn&hide_progress=false&theme=chartreuse-dark)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=twk-mn&show_icons=true&locale=en" alt="twk-mn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=twk-mn&show_icons=true&locale=en&theme=chartreuse-dark" alt="twk-mn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twk-mn&" alt="twk-mn" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=twk-mn&theme=github-green-purple&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/TawakeMono.png" alt="TryHackMe"> <img align="center" src="https://www.codewars.com/users/TawakeMono/badges/micro" alt="Codewars.com/TawakeMono" /></p>
+<p><img src="https://tryhackme-badges.s3.amazonaws.com/TawakeMono.png" alt="TryHackMe"><br /> <img align="center" src="https://www.codewars.com/users/TawakeMono/badges/micro" alt="Codewars.com/TawakeMono" /></p>
