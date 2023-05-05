@@ -4,7 +4,7 @@ Currently getting the hang of Go and Rust.
 </p>
 💻 Not sure if any of my repos are of interest to anyone... But you are welcome to check them out... 🙃
 
-📫 Contact: <a href="https://linkedin.com/in/fredfaeger" target="blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="python" width="25" height="20" /></a>
+📫 Contact: <a href="https://linkedin.com/in/fredfaeger" target="blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="25" height="20" /></a>
 </p>
 
 <p align="left">
@@ -12,6 +12,7 @@ Currently getting the hang of Go and Rust.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
