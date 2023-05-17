@@ -1,6 +1,6 @@
 <h1>👋, I'm Fred</h1>
 <p>Cybersecurity interested backend developer.<br />
-Currently studying Assembly (starting with i386, NASM), Rust and GO
+Currently studying Assembly (starting with i386, NASM), Rust, and GO
 </p>
 💻 Not sure if any of my repos are of interest to anyone... But you are welcome to check them out... 🙃
 
